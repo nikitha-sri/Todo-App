@@ -8,6 +8,8 @@ This project focuses on productivity, smooth user experience, responsive layouts
 https://nikitha-sri.github.io/Todo-App/
 
  📷 Screenshots
+ <img width="1887" height="892" alt="image" src="https://github.com/user-attachments/assets/130215c5-69c7-4a9b-873a-4920351f1705" />
+
 
 
 ✨ Features
