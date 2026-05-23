@@ -126,7 +126,7 @@ Method 1 — Live Server (Recommended)
 Nikitha Sri Pasupuleti
 
 LinkedIn:
-linkedin.com/in/nikitha-sri-pasupuleti
+ https://linkedin.com/in/nikitha-sri-pasupuleti
 
 
 
