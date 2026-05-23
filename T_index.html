@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Creative Todo App</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="T_style.css" />
+</head>
+<body>
+
+    <div class="background-blur blur-1"></div>
+    <div class="background-blur blur-2"></div>
+
+    <main class="app-container">
+
+        <section class="todo-card">
+
+            <div class="top-section">
+                <div>
+                    <p class="small-heading">Productivity Dashboard</p>
+                    <h1>Todo App</h1>
+                </div>
+
+                <div class="date-box" id="currentDate"></div>
+            </div>
+
+            <div class="stats-section">
+                <div class="stat-card">
+                    <h2 id="totalTasks">0</h2>
+                    <p>Total Tasks</p>
+                </div>
+
+                <div class="stat-card">
+                    <h2 id="completedTasks">0</h2>
+                    <p>Completed</p>
+                </div>
+
+                <div class="stat-card">
+                    <h2 id="pendingTasks">0</h2>
+                    <p>Pending</p>
+                </div>
+            </div>
+
+            <div class="task-input-section">
+
+                <input
+                    type="text"
+                    id="taskInput"
+                    placeholder="What do you want to accomplish today?"
+                />
+
+                <button id="addTaskBtn">
+                    Add Task
+                </button>
+            </div>
+
+            <div class="filter-section">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="completed">Completed</button>
+                <button class="filter-btn" data-filter="pending">Pending</button>
+            </div>
+
+            <ul id="taskList"></ul>
+
+            <div class="empty-state" id="emptyState">
+                <h3>No tasks yet ✨</h3>
+                <p>Add your first task to boost productivity.</p>
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="T_script.js"></script>
+
+</body>
