@@ -1,18 +1,18 @@
-✨ Creative Glassmorphism Todo App
+ Creative Glassmorphism Todo App
 
 A modern and responsive Todo Application built using HTML, CSS, and JavaScript with a visually stunning glassmorphism-inspired UI design.
 
 This project focuses on productivity, smooth user experience, responsive layouts, and interactive task management while maintaining a clean and professional frontend architecture.
 
- 🚀 Live Demo
+  Live Demo
 https://nikitha-sri.github.io/Todo-App/
 
- 📷 Screenshots
+ Screenshots
  <img width="1887" height="892" alt="image" src="https://github.com/user-attachments/assets/130215c5-69c7-4a9b-873a-4920351f1705" />
 
 
 
-✨ Features
+Features
 
 - Modern Glassmorphism UI
 - Fully Responsive Design
@@ -26,16 +26,14 @@ https://nikitha-sri.github.io/Todo-App/
 - Mobile-Friendly Interface
 - Clean & Structured Codebase
 
-
-🛠️ Technologies Used
+ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Local Storage API
 
-
-📂 Project Structure
+Project Structure
 
 
 creative-todo-app/
@@ -46,7 +44,7 @@ creative-todo-app/
 └── README.md
 
 
-💻 Functionalities
+ Functionalities
 
 Task Management
 - Create new tasks
@@ -68,7 +66,7 @@ Data Persistence
 - Tasks remain available even after refreshing the browser
   
 
-🎯 Purpose of the Project
+Purpose of the Project
 
 This project was developed to:
 
@@ -79,8 +77,7 @@ This project was developed to:
 - Create a real-world productivity application
 
 
-
-📱 Responsive Design
+ Responsive Design
 
 The application is fully optimized for:
 
@@ -89,8 +86,7 @@ The application is fully optimized for:
 - Mobile Devices
 
 
-
-✨ How to Run the Project
+ How to Run the Project
 
 Method 1 — Live Server (Recommended)
 
@@ -100,7 +96,7 @@ Method 1 — Live Server (Recommended)
 4. Click `Open with Live Server`
 
 
-🔥 Key Highlights
+ Key Highlights
 
 - Professional UI/UX Design
 - Responsive Layout
@@ -109,7 +105,7 @@ Method 1 — Live Server (Recommended)
 - Modern Design Aesthetics
 
 
-🌟 Future Improvements
+ Future Improvements
 
 - Dark/Light Theme Toggle
 - Drag & Drop Tasks
@@ -121,7 +117,7 @@ Method 1 — Live Server (Recommended)
 
 
 
-👩‍💻 Developed By
+ Developed By
 
 Nikitha Sri Pasupuleti
 
@@ -130,6 +126,6 @@ LinkedIn:
 
 
 
-📜 License
+ License
 
 This project is open source and available for learning and personal use.
